@@ -12,7 +12,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/PyScript/main/README.md
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/03_Minimierung.md#1)
 
-# Minimierung von Boolesche Funktionen
+# Minimierung von Booleschen Funktionen
 
 | Parameter                | Kursinformationen                                                                                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
